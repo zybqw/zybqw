@@ -9,4 +9,5 @@ Here are some of the technical skills that I have acquired over the past year:
 - Version control: Git, GitHub 📜
 ## Contact Me 📞
 If you have any questions or would like to connect with me, feel free to email me at zybqw@qq.com 📧.
-Thank you for visiting my GitHub page! 😊
+## Thanks! 😉
+Thank you for visiting my GitHub page! 😊 I hope you found something interesting here. Don't hesitate to reach out if you'd like to chat or collaborate on a project. Have a great day! 🎉
