@@ -1,4 +1,4 @@
-"### 你好，我是zybqw 👋
+### 你好，我是zybqw 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zybqw)
 
@@ -16,7 +16,7 @@
 
 🚀 最常见的库:
 
-![Code Mao-Auto Commenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Code-Mao-Auto-Commenter)
+![Code Mao-Auto Commenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter)
 
 ---
 
