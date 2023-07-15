@@ -1,7 +1,7 @@
 ### 你好，我是zybqw 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=zybqw&color=66ccff)
 
-我是一名来自中国的九年级初中生。
+我是一名来自中国的九年级初中**牲**。
 
 ---
 
