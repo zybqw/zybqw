@@ -1,23 +1,34 @@
-<h1 align=“center”>嗨👋，我是zybqw</h1><h3 align=“center”>来自印度的热情前端开发人员</h3>
+"### 你好，我是zybqw 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=zybqw)
 
-<p align=“left”> <img src=“https://komarev.com/ghpvc/?username=zybqw&label=Profile%20views&color=0e75b6&style=flat” alt=“zybqw” /> </p>
+我是一名来自中国的九年级初中生。我热爱编程，并且精通Python。在我闲暇时，我特别喜欢探索新技术和学习新的编程语言。我的激情和专注使我一直致力于跟踪技术行业的最新发展。
 
-<p align=“left”> <a href=“https://github.com/ryo-ma/github-profile-trophy”><imgsrc=“https://github-profile-trophy.vercel.app/?username=zybqw” alt=“zybqw” /></a> </p>
+一个我以为人人都应挺直腰板去面对挑战：永远努力，永远热爱自己选择的道路！
 
-- 我目前正在学习 **python**- 我正在寻求 [CodeMao-AutoCommenter]（https://github.com/zybqw/CodeMao-AutoCommenter） - 我经常写关于 [https://shequ.codemao.cn/user/12770114]（https://shequ.codemao.cn/user/12770114）
-📫
+---
 
-📝
-- 🤝 🌱 如何联系我的文章 **
+### 🛠 我主要使用的技术工具：
 
-zybqw@qq.com**
+- 编程语言： ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
-<h3 align=“left”>connect with me：</h3><p align=“left”></p><h3 align=“left”>语言和工具：</h3><p align=“left”>
+---
 
+🚀 最常见的库:
 
+![Code Mao-Auto Commenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Code-Mao-Auto-Commenter)
 
+---
 
-<a href=“https://www.python.org” target=“_blank” rel=“noreferrer”> <img src=“https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg” alt=“python” width=“40” height=“40”/> </a> </p>
+🏆 我的Github 统计:
 
-<p>&nbsp;<img align=“center” src=“https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&locale=en” alt=“zybqw” /></p>
+![zybqw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&theme=radical)
+
+---
+
+### 💼 我的联系方式:
+
+📧 Email: [zybqw@qq.com](mailto:zybqw@qq.com)
+
+⚡ 很高兴认识大家!"
+ 
