@@ -9,19 +9,19 @@
 
 - 编程语言： ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=66ccff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 🚀 最著名的库:
 
-![Code Mao-Auto Commenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue)
+[![Code Mao-Auto Commenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue)](https://github.com/zybqw/CodeMao-AutoCommenter)
 
 ---
 
 🏆 我的Github 统计:
 
-![zybqw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&theme=vue)
+[![zybqw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
