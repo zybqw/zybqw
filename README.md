@@ -21,7 +21,7 @@
 
 🏆 我的Github 统计:
 
-[![zybqw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![zybqw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&theme=vue)](https://github.com/zybqw)
 
 ---
 
