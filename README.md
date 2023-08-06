@@ -1,13 +1,10 @@
 ### 你好，我是zybqw 👋
-![Profile Views](https://komarev.com/ghpvc/?username=zybqw&color=66ccff)
 
 我是一名来自中国的九年级初中**牲**。
 
 ---
 
-### 🛠 我主要使用的技术工具：
-
-- 编程语言： ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=66ccff)
+### 🛠 我主要使用的技术工具：![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&color=66ccff)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)](https://github.com/anuraghazra/github-readme-stats)
 
