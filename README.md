@@ -16,8 +16,12 @@
 
 🚀 最著名的库:
 
-[![Code Mao-Auto Commenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue)](https://github.com/zybqw/CodeMao-AutoCommenter)
-[![Chat-Mind-AI](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Chat-Mind-AI&theme=shadow_blue)](https://github.com/zybqw/Chat-Mind-AI)
+<a href="https://github.com/zybqw/CodeMao-AutoCommenter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue" />
+</a>
+<a href="https://github.com/zybqw/Chat-Mind-AI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Chat-Mind-AI&theme=shadow_blue" />
+</a>
 
 ---
 
