@@ -1,6 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header"/>
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header"/></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=70&lines=%22Go+to+the+pier+to+grab+some+fries.%22" alt="Typing SVG" /></a>
 
