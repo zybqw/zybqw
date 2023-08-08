@@ -1,4 +1,6 @@
-### 你好，我是zybqw 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&pause=1000&color=66CCFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=770&height=75&lines=Go+to+the+pair+and+grab+some+fries)](https://git.io/typing-svg)
+
+# Hi，I'm zybqw 👋
 
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff)](https://github.com/zybqw/) 
 [![Python Badge](https://img.shields.io/badge/-Python-66ccff?style=flat&logo=Python&logoColor=white)](https://github.com/zybqw/)
@@ -8,8 +10,6 @@
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1940383037)
 
 我是一名来自中国的九年级初中**牲**。
-
----
 
 ### 🛠 我主要使用的技术工具：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)](https://github.com/anuraghazra/github-readme-stats)
