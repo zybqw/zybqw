@@ -13,7 +13,7 @@
 [![Bilibili Badge](https://img.shields.io/badge/Bilibili-66ccff?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1940383037)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=66ccff&logo_color=white)](https://space.bilibili.com/1940383037/fans/fans)
 
-I'm from Gansu Province, China 🇨🇳, and I'm currently a junior in high school, studying at Beijing Normal University Qingyang Affiliated School 🏫.
+I'm from Gansu Province, China, and I'm currently a junior in high school, studying at Beijing Normal University Qingyang Affiliated School 🏫.
 
 I can use Python 🐍 and Markdown, although I haven't mastered them completely. But I've been trying my best to learn, and I'm making progress every day 📚.
 
