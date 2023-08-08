@@ -23,12 +23,12 @@ In life, I enjoy listening to music 🎵 and riding bicycles 🚴. At the same t
 
 Friends, if you like what I'm doing, please give my repository a star ⭐! Your support means a lot to me.
 
-### 🛠 我主要使用的技术工具：
+### 🛠 My language：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-🚀 最著名的库:
+### 🚀 Popular project repositories:
 
 <a href="https://github.com/zybqw/CodeMao-AutoCommenter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue" />
@@ -39,15 +39,15 @@ Friends, if you like what I'm doing, please give my repository a star ⭐! Your 
 
 ---
 
-🏆 我的Github 统计:
+### 🏆My GitHub stats:
 
 [![zybqw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&theme=vue)](https://github.com/zybqw)
 
 ---
 
-### 💼 我的联系方式:
+### 💼 My contact information:
 
 📧 Email: [zybqw@qq.com](mailto:zybqw@qq.com)
 
-⚡ 很高兴认识大家!"
+⚡ **Nice to meet you all!**
  
