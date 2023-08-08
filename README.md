@@ -4,6 +4,8 @@
 [![Python Badge](https://img.shields.io/badge/-Python-66ccff?style=flat&logo=Python&logoColor=white)](https://github.com/zybqw/)
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-66ccff?style=flat&logo=Markdown&logoColor=white)](https://github.com/zybqw/)
 [![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/zybqw/)
+[![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff?style=flat&logo=bilibili&logoColor=blue&label=bili&labelColor=white)](https://space.bilibili.com/194038337)
+[![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=white)](https://space.bilibili.com/1940383037)
 
 我是一名来自中国的九年级初中**牲**。
 
