@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&duration=10000&pause=10000&color=33C5BB&center=true&vCenter=true&multiline=true&width=740&height=30&lines=No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part." alt="Typing SVG" /></a>
 
-# Hi，I'm zybqw 👋
+# Hi,there!I'm zybqw 👋
 
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff)](https://github.com/zybqw/) 
 [![Python Badge](https://img.shields.io/badge/-Python-66ccff?style=flat&logo=Python&logoColor=white)](https://github.com/zybqw/)
@@ -11,7 +11,13 @@
 [![Bilibili Badge](https://img.shields.io/badge/Bilibili-66ccff?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1940383037)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=66ccff&logo_color=white)](https://space.bilibili.com/1940383037/fans/fans)
 
-我是一名来自中国的九年级初中**牲**。
+I'm from Gansu Province, China 🇨🇳, and I'm currently a junior in high school, studying at Beijing Normal University Qingyang Affiliated School 🏫.
+
+I can use Python 🐍 and Markdown, although I haven't mastered them completely. But I've been trying my best to learn, and I'm making progress every day 📚.
+
+In life, I enjoy listening to music 🎵 and riding bicycles 🚴. At the same time, I also like to play some games, such as Phigros, Minecraft ⛏️, and more.
+
+Friends, if you like what I'm doing, please give my repository a star ⭐! Your support means a lot to me.
 
 ### 🛠 我主要使用的技术工具：
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)](https://github.com/anuraghazra/github-readme-stats)
