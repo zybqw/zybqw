@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&pause=1000&color=66CCFF&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=770&height=75&lines=Go+to+the+pair+and+grab+some+fries)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&pause=1000&color=33C5BB&center=true&vCenter=true&width=750&height=30&lines=%22No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&duration=10000&pause=10000&color=33C5BB&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=750&height=30&lines=%22No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&duration=1000&pause=10&color=33C5BB&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&width=750&height=30&lines=%22No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part.%22)](https://git.io/typing-svg)
 # Hi，I'm zybqw 👋
 
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff)](https://github.com/zybqw/) 
