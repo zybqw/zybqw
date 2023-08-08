@@ -1,9 +1,8 @@
-<a href="#">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header"/></a>
+[![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header)](https://github.com/zybqw/zybqw)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=70&lines=%22Go+to+the+pier+to+grab+some+fries.%22" alt="Typing SVG" /></a>
+[![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=70&lines=%22Go+to+the+pier+to+grab+some+fries.%22)](https://github.com/zybqw/zybqw)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&duration=10000&pause=15000&color=33C5BB&center=true&vCenter=true&multiline=true&width=740&height=30&lines=No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part." alt="Typing SVG" /></a>
+[![Small text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&duration=10000&pause=15000&color=33C5BB&center=true&vCenter=true&multiline=true&width=740&height=30&lines=No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part)](https://github.com/zybqw/zybqw)
 
 # Hi,there!  I'm zybqw 👋
 
@@ -23,26 +22,17 @@ In life, I enjoy listening to music 🎵 and riding bicycles 🚴. At the same t
 Friends, if you like what I'm doing, please give my repository a star ⭐! Your support means a lot to me.
 
 ### 🛠 My language：
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)](https://github.com/anuraghazra/github-readme-stats)
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zybqw)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Popular project repositories:
 
-<a href="https://github.com/zybqw/CodeMao-AutoCommenter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue" />
-</a>
-<a href="https://github.com/zybqw/Chat-Mind-AI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Chat-Mind-AI&theme=shadow_blue" />
-</a>
-
----
+[![CodeMao-AutoCommenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue)](https://github.com/zybqw/CodeMao-AutoCommenter)
+[![Chat-Mind-AI](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Chat-Mind-AI&theme=shadow_blue)](https://github.com/zybqw/Chat-Mind-AI)
 
 ### 🏆My GitHub stats:
 
 [![zybqw's GitHub stats](https://github-readme-stats.vercel.app/api?username=zybqw&show_icons=true&theme=vue)](https://github.com/zybqw)
-
----
 
 ### 💼 My contact information:
 
