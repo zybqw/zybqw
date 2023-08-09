@@ -1,4 +1,4 @@
-[![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header)](https://github.com/zybqw/zybqw)
+[![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=200&section=header)](https://github.com/zybqw/zybqw)
 
 [![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=90&lines=%22Go+to+the+pier+to+grab+some+fries.%22)](https://github.com/zybqw/zybqw)
 
