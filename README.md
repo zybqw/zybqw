@@ -1,6 +1,6 @@
 [![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header)](https://github.com/zybqw/zybqw)
 
-[![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=70&lines=%22Go+to+the+pier+to+grab+some+fries.%22)](https://github.com/zybqw/zybqw)
+[![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=90&lines=%22Go+to+the+pier+to+grab+some+fries.%22)](https://github.com/zybqw/zybqw)
 
 [![Small text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&duration=10000&pause=15000&color=33C5BB&center=true&vCenter=true&multiline=true&width=740&height=30&lines=No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part)](https://github.com/zybqw/zybqw)
 
