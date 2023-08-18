@@ -19,7 +19,7 @@ I can use Python 🐍 and Markdown, although I haven't mastered them completely.
 
 In life, I enjoy listening to music 🎵 and riding bicycles 🚴. At the same time, I also like to play some games, such as Phigros, Minecraft ⛏️, and more.
 
-Friends, if you like what I'm doing, please give my repository a star ⭐! Your support means a lot to me.
+Friends, if you like what my doing, please give my repository a star ⭐! Your support means a lot to me.
 
 ### 🛠 My language：
 
