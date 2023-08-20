@@ -1,3 +1,5 @@
+<div align="center">
+
 [![Top Image](https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=150&section=header)](https://github.com/zybqw/zybqw)
 
 [![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=90&lines=%22Go+to+the+pier+to+grab+some+fries.%22)](https://github.com/zybqw/zybqw)
@@ -13,11 +15,17 @@
 [![Bilibili Badge](https://img.shields.io/badge/Bilibili-66ccff?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1940383037)
 [![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=66ccff&logo_color=white)](https://space.bilibili.com/1940383037/fans/fans)
 
-I'm from Gansu Province, China, and I'm currently a junior in high school, studying at Beijing Normal University Qingyang Affiliated School 🏫.
+I'm from Gansu Province, China, 
 
-I can use Python 🐍 and Markdown, although I haven't mastered them completely. But I've been trying my best to learn, and I'm making progress every day 📚.
+and I'm currently a junior in high school, studying at Beijing Normal University Qingyang Affiliated School 🏫.
 
-In life, I enjoy listening to music 🎵 and riding bicycles 🚴. At the same time, I also like to play some games, such as Phigros, Minecraft ⛏️, and more.
+I can use Python 🐍 and Markdown, although I haven't mastered them completely. 
+
+But I've been trying my best to learn, and I'm making progress every day 📚.
+
+In life, I enjoy listening to music 🎵 and riding bicycles 🚴. 
+
+At the same time, I also like to play some games, such as Phigros, Minecraft ⛏️, and more.
 
 Friends, if you like what my doing, please give my repository a star ⭐! Your support means a lot to me.
 
@@ -28,6 +36,7 @@ Friends, if you like what my doing, please give my repository a star ⭐! Your s
 ### 🚀 Popular project repositories:
 
 [![CodeMao-AutoCommenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue)](https://github.com/zybqw/CodeMao-AutoCommenter)
+
 [![Chat-Mind-AI](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Chat-Mind-AI&theme=shadow_blue)](https://github.com/zybqw/Chat-Mind-AI)
 
 ### 🏆My GitHub stats:
@@ -39,4 +48,5 @@ Friends, if you like what my doing, please give my repository a star ⭐! Your s
 📧 Email: [zybqw@qq.com](mailto:zybqw@qq.com)
 
 ⚡ **Nice to meet you all!**
- 
+
+</div>
