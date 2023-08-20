@@ -47,6 +47,6 @@ Friends, if you like what my doing, please give my repository a star ⭐! Your s
 
 📧 Email: [zybqw@qq.com](mailto:zybqw@qq.com)
 
-##⚡ **Nice to meet you all!**
+## ⚡ Nice to meet you all!
 
 </div>
