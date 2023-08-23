@@ -17,7 +17,7 @@
 
 I'm from Gansu Province, China, 
 
-and I'm I'm a ninth grader, studying at Beijing Normal University Qingyang Affiliated School 🏫.
+and I'm a ninth grader, studying at Beijing Normal University Qingyang Affiliated School 🏫.
 
 I can use Python 🐍 and Markdown, although I haven't mastered them completely. 
 
