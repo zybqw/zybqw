@@ -13,7 +13,8 @@
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-66ccff?style=flat&logo=Markdown&logoColor=white)](https://markdown.com.cn/)
 [![Github Badge](https://img.shields.io/badge/-Github%20-66ccff?style=flat&logo=Github&logoColor=white)](https://github.com/zybqw/)
 [![Bilibili Badge](https://img.shields.io/badge/Bilibili-66ccff?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/1940383037)
-[![Followers](https://bilistats.lonelyion.com/followers?uid=1940383037&style=flat&color=66ccff&label=粉丝数&label_color=66ccff&logo_color=white)](https://space.bilibili.com/1940383037/fans/fans)
+[![Followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D1940383037&query=data.totalSubs&logo=bilibili&logoColor=white&label=%E7%B2%89%E4%B8%9D%E6%95%B0&labelColor=66ccff&color=66ccff
+)](https://space.bilibili.com/1940383037/fans/fans)
 
 I'm from Gansu Province, China, 
 
