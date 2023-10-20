@@ -4,8 +4,6 @@
 
 [![Big text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=50&duration=8000&pause=15000&color=66CCFF&vCenter=true&multiline=true&width=800&height=90&lines=%22Go+to+the+pier+to+grab+some+fries.%22)](https://github.com/zybqw/zybqw)
 
-[![Small text](https://readme-typing-svg.demolab.com?font=Hanalei+Fill&size=15&duration=10000&pause=15000&color=33C5BB&center=true&vCenter=true&multiline=true&width=740&height=30&lines=No+matter+what+we+pursue%2C+basic+needs+in+life+like+'grabbing+some+fries'+are+always+an+indispensable+part)](https://github.com/zybqw/zybqw)
-
 # Hi,there!  I'm zybqw 👋
 
 [![屑猫鱼a](https://img.shields.io/badge/屑猫鱼a-66ccff)](https://github.com/zybqw/) 
@@ -46,6 +44,10 @@ Friends, if you like what my doing, please give my repository a star ⭐! Your s
 ### 💼 My contact information:
 
 📧 Email: [zybqw@qq.com](mailto:zybqw@qq.com)
+
+### 🤗Friends' websites:
+
+[AcboxSky](index.acbox.lol)
 
 ## ⚡ Nice to meet you all!
 
