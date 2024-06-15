@@ -33,7 +33,7 @@ Friends, if you like what my doing, please give my repository a star ⭐! Your s
 
 ### 🚀 Popular project repositories:
 
-[![CodeMao-AutoCommenter](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=CodeMao-AutoCommenter&theme=shadow_blue)](https://github.com/zybqw/CodeMao-AutoCommenter)
+[![Aumiao](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Aumiao&theme=shadow_blue)](https://github.com/zybqw/Aumiao)
 
 [![Chat-Mind-AI](https://github-readme-stats.vercel.app/api/pin/?username=zybqw&repo=Chat-Mind-AI&theme=shadow_blue)](https://github.com/zybqw/Chat-Mind-AI)
 
