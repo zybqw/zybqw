@@ -4,7 +4,11 @@
 
 ![](http://q1.qlogo.cn/g?b=qq&nk=3611198191&s=100)
 
-**「云销雨霁山如洗，风定波平星欲流」**
+~~*云销雨霁山如洗，风定波平星欲流*~~
+
+**南北多歧路，基米独踟蹰😭**
+
+**风起曼波处，一哈万愁无😮‍💨**
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
