@@ -1,7 +1,5 @@
 <div align="center">
 
-![](./banner.png)
-
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=66ccff&height=100&section=header&text=&fontSize=70&animation=fadeIn&fontColor=ffffff" alt="header"/> -->
 
 ![](http://q1.qlogo.cn/g?b=qq&nk=3611198191&s=100)
