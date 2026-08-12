@@ -23,7 +23,7 @@
 ![Biome](https://img.shields.io/badge/-Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)
 
 
-[![Website](https://img.shields.io/badge/Website-aurzex.top-66ccff?style=flat-square)](https://aurzex.top)
+[![Website](https://img.shields.io/badge/Website-aurzex.top-66ccff?style=flat-square)](https://blog.aurzex.top)
 [![GitHub](https://img.shields.io/badge/GitHub-aurzex-181717?style=flat-square&logo=github)](https://github.com/aurzex)
 [![Bilibili](https://img.shields.io/badge/Bilibili-喵鱼a-00A1D6?style=flat-square&logo=bilibili&logoColor=00A1D6)](https://space.bilibili.com/1940383037)
 [![wakatime](https://wakatime.com/badge/user/9b518ad1-7019-426e-841d-089e491dd386.svg?style=flat-square)](https://wakatime.com/@9b518ad1-7019-426e-841d-089e491dd386)
