@@ -11,15 +11,15 @@
 **风起曼波处，一哈万愁无😮‍💨**
 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-b2846a?style=flat-square&logo=rust&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white)
 
 
-![VSCode](https://img.shields.io/badge/VSCode-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-2F80ED?style=flat-square&logo=vscodium&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Ruff](https://img.shields.io/badge/-Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=white)
